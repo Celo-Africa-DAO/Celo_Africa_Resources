@@ -2,7 +2,7 @@
 
 Celo is the carbon-negative, mobile-first, EVM-compatible PoS blockchain where developers can build decentralized applications that create the conditions for prosperity — for everyone.
 
-## Resources for hackers
+## Resources for hackers // referenced from [celo-org/ethglobal-london](https://github.com/celo-org/ethglobal-london/) repo.
 
 🙋‍♂️ Ask for help
 
